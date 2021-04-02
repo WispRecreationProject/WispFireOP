@@ -1,0 +1,8 @@
+name: WispFireOP
+version: ${project.version}
+main: dev.yhdiamond.wispfireop.WispFireOP
+api-version: 1.16
+commands:
+  wispfireop:
+    usage: /wispfireop <start/stop>
+    description: Starts the Wisp Fire Drops OP Items challenge
